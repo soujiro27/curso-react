@@ -1,0 +1,21 @@
+
+body{
+    background-color:#efefef;
+}
+
+.Media-container{
+    width: 100%;
+    overflow:visible
+}
+
+.Media{
+    cursor: pointer;
+    width: 260px;
+    text-align: center;
+    display: inline-block;
+}
+
+.Media-info img{
+    width: 230px;
+    height: 230px;
+}

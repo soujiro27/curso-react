@@ -1,0 +1,1435 @@
+{
+  "topalbums": {
+  "album": [
+  {
+  "name": "Recovery",
+  "playcount": 26130956,
+  "mbid": "dddf01df-f9f1-4ba6-b414-5ddf1984fc7f",
+  "url": "https://www.last.fm/music/Eminem/Recovery",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/d15881b09b6041ccad34c2490de618b3.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/d15881b09b6041ccad34c2490de618b3.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/d15881b09b6041ccad34c2490de618b3.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/d15881b09b6041ccad34c2490de618b3.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Eminem Show",
+  "playcount": 19391319,
+  "mbid": "af71f60c-a8e8-4774-a2b3-30dbfaa13bd6",
+  "url": "https://www.last.fm/music/Eminem/The+Eminem+Show",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/16255aa135b04922a5a4ed8535e206d4.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/16255aa135b04922a5a4ed8535e206d4.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/16255aa135b04922a5a4ed8535e206d4.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/16255aa135b04922a5a4ed8535e206d4.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Marshall Mathers LP",
+  "playcount": 12551434,
+  "mbid": "51544aed-52a1-42b9-aff0-9237ac3dd564",
+  "url": "https://www.last.fm/music/Eminem/The+Marshall+Mathers+LP",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/de87486b44ed660d8bc9b5fa9a416336.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/de87486b44ed660d8bc9b5fa9a416336.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/de87486b44ed660d8bc9b5fa9a416336.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/de87486b44ed660d8bc9b5fa9a416336.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Curtain Call: The Hits",
+  "playcount": 6812859,
+  "mbid": "5f7c0d23-58d9-4bdf-bfd9-e1e420b3ef29",
+  "url": "https://www.last.fm/music/Eminem/Curtain+Call:+The+Hits",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/0e4c959a450a45e89a95f65d2824d97d.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/0e4c959a450a45e89a95f65d2824d97d.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/0e4c959a450a45e89a95f65d2824d97d.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/0e4c959a450a45e89a95f65d2824d97d.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Slim Shady LP",
+  "playcount": 7331579,
+  "mbid": "f305300d-d3ef-314f-a260-9b2cc12705d8",
+  "url": "https://www.last.fm/music/Eminem/The+Slim+Shady+LP",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/6b71796a5a734c2f97a0daddd12115fe.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/6b71796a5a734c2f97a0daddd12115fe.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/6b71796a5a734c2f97a0daddd12115fe.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/6b71796a5a734c2f97a0daddd12115fe.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Encore",
+  "playcount": 9680238,
+  "mbid": "93b725a3-5e68-45e5-9798-5afb29922c5b",
+  "url": "https://www.last.fm/music/Eminem/Encore",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/f5d68d716a2f4897c88b82a8393afa76.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/f5d68d716a2f4897c88b82a8393afa76.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/f5d68d716a2f4897c88b82a8393afa76.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/f5d68d716a2f4897c88b82a8393afa76.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Relapse",
+  "playcount": 11530594,
+  "mbid": "25130d2d-8a82-4956-99e7-30efd0f9ff89",
+  "url": "https://www.last.fm/music/Eminem/Relapse",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/d3897312908d49dda2b0b1a4f262b203.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/d3897312908d49dda2b0b1a4f262b203.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/d3897312908d49dda2b0b1a4f262b203.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/d3897312908d49dda2b0b1a4f262b203.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Curtain Call",
+  "playcount": 5581536,
+  "url": "https://www.last.fm/music/Eminem/Curtain+Call",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/31650ee5a5d041ac957df92792a81686.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/31650ee5a5d041ac957df92792a81686.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/31650ee5a5d041ac957df92792a81686.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/31650ee5a5d041ac957df92792a81686.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Marshall Mathers LP2",
+  "playcount": 5882802,
+  "url": "https://www.last.fm/music/Eminem/The+Marshall+Mathers+LP2",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/d9f8b4f7bce24299c2762c40c0465f0f.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/d9f8b4f7bce24299c2762c40c0465f0f.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/d9f8b4f7bce24299c2762c40c0465f0f.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/d9f8b4f7bce24299c2762c40c0465f0f.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Eminem Presents The Re-Up",
+  "playcount": 962555,
+  "url": "https://www.last.fm/music/Eminem/Eminem+Presents+The+Re-Up",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/c899ec5e4b9b411b8894b2c67960042f.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/c899ec5e4b9b411b8894b2c67960042f.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/c899ec5e4b9b411b8894b2c67960042f.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/c899ec5e4b9b411b8894b2c67960042f.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Marshall Mathers LP2 (Deluxe)",
+  "playcount": 3150489,
+  "url": "https://www.last.fm/music/Eminem/The+Marshall+Mathers+LP2+(Deluxe)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/8b3ee9d493ca4c99ccdacdbf003c047b.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/8b3ee9d493ca4c99ccdacdbf003c047b.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/8b3ee9d493ca4c99ccdacdbf003c047b.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/8b3ee9d493ca4c99ccdacdbf003c047b.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Relapse: Refill",
+  "playcount": 2304617,
+  "mbid": "44a066ab-5c2c-45aa-b3df-cb479668946b",
+  "url": "https://www.last.fm/music/Eminem/Relapse:+Refill",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/6f8ef06bd79e49cd956eec96ce71e210.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/6f8ef06bd79e49cd956eec96ce71e210.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/6f8ef06bd79e49cd956eec96ce71e210.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/6f8ef06bd79e49cd956eec96ce71e210.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Curtain Call (Deluxe Explicit)",
+  "playcount": 1654947,
+  "url": "https://www.last.fm/music/Eminem/Curtain+Call+(Deluxe+Explicit)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/878d841f2b9fb16859077ee7e56c8d72.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/878d841f2b9fb16859077ee7e56c8d72.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/878d841f2b9fb16859077ee7e56c8d72.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/878d841f2b9fb16859077ee7e56c8d72.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Lose Yourself",
+  "playcount": 805786,
+  "mbid": "a6d7be9e-8fc9-44c7-8066-caa658d05ef9",
+  "url": "https://www.last.fm/music/Eminem/Lose+Yourself",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/95dffb1e2bd84b128cdd3929abbec870.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/95dffb1e2bd84b128cdd3929abbec870.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/95dffb1e2bd84b128cdd3929abbec870.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/95dffb1e2bd84b128cdd3929abbec870.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Monster",
+  "playcount": 783133,
+  "url": "https://www.last.fm/music/Eminem/The+Monster",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/ee93ea3cb8d444cac4a491c67cc4f4ac.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/ee93ea3cb8d444cac4a491c67cc4f4ac.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/ee93ea3cb8d444cac4a491c67cc4f4ac.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/ee93ea3cb8d444cac4a491c67cc4f4ac.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Eminem Show (Explicit Version)",
+  "playcount": 1137794,
+  "url": "https://www.last.fm/music/Eminem/The+Eminem+Show+(Explicit+Version)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/ba6d716cb42b7c2fc6633caa10ca66b0.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/ba6d716cb42b7c2fc6633caa10ca66b0.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/ba6d716cb42b7c2fc6633caa10ca66b0.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/ba6d716cb42b7c2fc6633caa10ca66b0.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "8 Mile",
+  "playcount": 1243913,
+  "url": "https://www.last.fm/music/Eminem/8+Mile",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/0fbd7c81ae7c02c86f6d67d40a002d4b.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/0fbd7c81ae7c02c86f6d67d40a002d4b.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/0fbd7c81ae7c02c86f6d67d40a002d4b.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/0fbd7c81ae7c02c86f6d67d40a002d4b.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Slim Shady LP",
+  "playcount": 1121238,
+  "url": "https://www.last.fm/music/Eminem/Slim+Shady+LP",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/2d5e427011664c848d68e40f5296e298.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/2d5e427011664c848d68e40f5296e298.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/2d5e427011664c848d68e40f5296e298.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/2d5e427011664c848d68e40f5296e298.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Curtain Call (Deluxe)",
+  "playcount": 793933,
+  "url": "https://www.last.fm/music/Eminem/Curtain+Call+(Deluxe)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/93ab3714318eedd24dc626989cc65b17.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/93ab3714318eedd24dc626989cc65b17.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/93ab3714318eedd24dc626989cc65b17.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/93ab3714318eedd24dc626989cc65b17.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Not Afraid",
+  "playcount": 566670,
+  "mbid": "56f51183-2211-3671-b0de-48956692a41c",
+  "url": "https://www.last.fm/music/Eminem/Not+Afraid",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/b2afde1cedb847438337b0a68832a0b1.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/b2afde1cedb847438337b0a68832a0b1.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/b2afde1cedb847438337b0a68832a0b1.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/b2afde1cedb847438337b0a68832a0b1.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Berzerk",
+  "playcount": 454062,
+  "mbid": "8768a088-2d9c-46c3-a2f4-5f8cbf87c990",
+  "url": "https://www.last.fm/music/Eminem/Berzerk",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/dddd0c92e0174c1390efdb1df6809a38.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/dddd0c92e0174c1390efdb1df6809a38.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/dddd0c92e0174c1390efdb1df6809a38.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/dddd0c92e0174c1390efdb1df6809a38.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Revival",
+  "playcount": 1288502,
+  "url": "https://www.last.fm/music/Eminem/Revival",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/68563fad9791a9d570f1da39fc2b9c29.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/68563fad9791a9d570f1da39fc2b9c29.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/68563fad9791a9d570f1da39fc2b9c29.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/68563fad9791a9d570f1da39fc2b9c29.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Rap God",
+  "playcount": 355494,
+  "mbid": "112d51a8-b6ad-414f-970d-5d9eaac810ec",
+  "url": "https://www.last.fm/music/Eminem/Rap+God",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/292a62cef1db4d5396d2b60e2b215906.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/292a62cef1db4d5396d2b60e2b215906.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/292a62cef1db4d5396d2b60e2b215906.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/292a62cef1db4d5396d2b60e2b215906.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Best of Slim Shady",
+  "playcount": 145275,
+  "mbid": "65fe3c42-0d29-458c-a1ab-3dd2909a39cc",
+  "url": "https://www.last.fm/music/Eminem/Best+of+Slim+Shady",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/6bddbc12452b44d09e06614691c62cc2.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/6bddbc12452b44d09e06614691c62cc2.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/6bddbc12452b44d09e06614691c62cc2.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/6bddbc12452b44d09e06614691c62cc2.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Infinite",
+  "playcount": 1201353,
+  "mbid": "49bc0156-912e-46ed-97f0-acc3e3122030",
+  "url": "https://www.last.fm/music/Eminem/Infinite",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/44035c81e6412f20c4981b2e8646424d.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/44035c81e6412f20c4981b2e8646424d.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/44035c81e6412f20c4981b2e8646424d.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/44035c81e6412f20c4981b2e8646424d.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "(null)",
+  "playcount": 863326,
+  "url": "https://www.last.fm/music/Eminem/(null)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "",
+  "size": "small"
+  },
+  {
+  "#text": "",
+  "size": "medium"
+  },
+  {
+  "#text": "",
+  "size": "large"
+  },
+  {
+  "#text": "",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "8 Miles Soundtrack",
+  "playcount": 423978,
+  "url": "https://www.last.fm/music/Eminem/8+Miles+Soundtrack",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/6e5c038280ea463b885176a9732bae3a.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/6e5c038280ea463b885176a9732bae3a.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/6e5c038280ea463b885176a9732bae3a.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/6e5c038280ea463b885176a9732bae3a.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Recovery (Explicit Version)",
+  "playcount": 508323,
+  "url": "https://www.last.fm/music/Eminem/Recovery+(Explicit+Version)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/6a572a4d22c140b8bb47842f4a6b4f75.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/6a572a4d22c140b8bb47842f4a6b4f75.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/6a572a4d22c140b8bb47842f4a6b4f75.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/6a572a4d22c140b8bb47842f4a6b4f75.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Guts Over Fear",
+  "playcount": 211514,
+  "url": "https://www.last.fm/music/Eminem/Guts+Over+Fear",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/342d40ceddf5400dc0c3f8cb2fffe0ab.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/342d40ceddf5400dc0c3f8cb2fffe0ab.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/342d40ceddf5400dc0c3f8cb2fffe0ab.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/342d40ceddf5400dc0c3f8cb2fffe0ab.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Survival",
+  "playcount": 219325,
+  "mbid": "7e9171db-db29-4967-abd4-b19b501b30a3",
+  "url": "https://www.last.fm/music/Eminem/Survival",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/56c4a47a70996bf8308e41a66b697bb7.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/56c4a47a70996bf8308e41a66b697bb7.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/56c4a47a70996bf8308e41a66b697bb7.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/56c4a47a70996bf8308e41a66b697bb7.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Recovery (Deluxe Edition)",
+  "playcount": 1562963,
+  "url": "https://www.last.fm/music/Eminem/Recovery+(Deluxe+Edition)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/66ec4ec1d1494cb9f7d459e49b57805b.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/66ec4ec1d1494cb9f7d459e49b57805b.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/66ec4ec1d1494cb9f7d459e49b57805b.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/66ec4ec1d1494cb9f7d459e49b57805b.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "SHADYXV",
+  "playcount": 342951,
+  "mbid": "6917cef8-c761-4394-bf0d-8f4cc5bbc0e4",
+  "url": "https://www.last.fm/music/Eminem/SHADYXV",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/03e90ad1851444bac44bf3a7e766d9fc.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/03e90ad1851444bac44bf3a7e766d9fc.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/03e90ad1851444bac44bf3a7e766d9fc.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/03e90ad1851444bac44bf3a7e766d9fc.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Marshall Mathers LP 2",
+  "playcount": 1866160,
+  "mbid": "aa4dd418-de74-434f-ab50-6c795112b9d1",
+  "url": "https://www.last.fm/music/Eminem/The+Marshall+Mathers+LP+2",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/31b144e51af94123c17c41f4f994219f.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/31b144e51af94123c17c41f4f994219f.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/31b144e51af94123c17c41f4f994219f.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/31b144e51af94123c17c41f4f994219f.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Walk On Water (feat. Beyoncé)",
+  "playcount": 118842,
+  "url": "https://www.last.fm/music/Eminem/Walk+On+Water+(feat.+Beyonc%C3%A9)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/72ce325f994c11fbdbb3f32be0936a41.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/72ce325f994c11fbdbb3f32be0936a41.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/72ce325f994c11fbdbb3f32be0936a41.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/72ce325f994c11fbdbb3f32be0936a41.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Eminem-Recovery-(Retail)-2010-[NoFS]",
+  "playcount": 1563335,
+  "url": "https://www.last.fm/music/Eminem/Eminem-Recovery-(Retail)-2010-%5BNoFS%5D",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/9774207533c94fc5977dcd9e47ec5f77.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/9774207533c94fc5977dcd9e47ec5f77.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/9774207533c94fc5977dcd9e47ec5f77.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/9774207533c94fc5977dcd9e47ec5f77.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Marshall Mathers LP (U.K. Only)",
+  "playcount": 316823,
+  "url": "https://www.last.fm/music/Eminem/The+Marshall+Mathers+LP+(U.K.+Only)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/084099451ffd895ea0deb41540653634.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/084099451ffd895ea0deb41540653634.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/084099451ffd895ea0deb41540653634.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/084099451ffd895ea0deb41540653634.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Platinum Collection 2001",
+  "playcount": 125028,
+  "mbid": "d6826227-66fe-4002-bc1d-2000fa348009",
+  "url": "https://www.last.fm/music/Eminem/Platinum+Collection+2001",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/81dc85e4b78d4f31a93b538b65eb4dfb.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/81dc85e4b78d4f31a93b538b65eb4dfb.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/81dc85e4b78d4f31a93b538b65eb4dfb.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/81dc85e4b78d4f31a93b538b65eb4dfb.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "We Made You",
+  "playcount": 163170,
+  "mbid": "7bce3455-e206-4f8d-a095-0037db64ba80",
+  "url": "https://www.last.fm/music/Eminem/We+Made+You",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/197b0b850ab34c4e9fdb7a1d99027205.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/197b0b850ab34c4e9fdb7a1d99027205.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/197b0b850ab34c4e9fdb7a1d99027205.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/197b0b850ab34c4e9fdb7a1d99027205.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "8 mile soundtrack",
+  "playcount": 272196,
+  "url": "https://www.last.fm/music/Eminem/8+mile+soundtrack",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/1a80a10dcc2f4f5f9390d10e126f62ce.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/1a80a10dcc2f4f5f9390d10e126f62ce.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/1a80a10dcc2f4f5f9390d10e126f62ce.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/1a80a10dcc2f4f5f9390d10e126f62ce.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Relapse [Deluxe]",
+  "playcount": 123981,
+  "url": "https://www.last.fm/music/Eminem/Relapse+%5BDeluxe%5D",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/54700cc01f774b03a9a84f25909814af.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/54700cc01f774b03a9a84f25909814af.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/54700cc01f774b03a9a84f25909814af.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/54700cc01f774b03a9a84f25909814af.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Don't Call Me Marshall",
+  "playcount": 522883,
+  "mbid": "f7243993-5719-4290-bdee-a09c755b5834",
+  "url": "https://www.last.fm/music/Eminem/Don%27t+Call+Me+Marshall",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/a974bcf52cef40228d8a5b7910a1dbcb.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/a974bcf52cef40228d8a5b7910a1dbcb.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/a974bcf52cef40228d8a5b7910a1dbcb.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/a974bcf52cef40228d8a5b7910a1dbcb.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Piece of Mind",
+  "playcount": 48339,
+  "mbid": "49cc08d6-ff3e-4087-b550-4a4db60d9c37",
+  "url": "https://www.last.fm/music/Eminem/Piece+of+Mind",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/e347c15aa0b84e6cb7810bf3e5aa9237.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/e347c15aa0b84e6cb7810bf3e5aa9237.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/e347c15aa0b84e6cb7810bf3e5aa9237.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/e347c15aa0b84e6cb7810bf3e5aa9237.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Encore [Deluxe Edition",
+  "playcount": 50599,
+  "url": "https://www.last.fm/music/Eminem/Encore+%5BDeluxe+Edition",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "",
+  "size": "small"
+  },
+  {
+  "#text": "",
+  "size": "medium"
+  },
+  {
+  "#text": "",
+  "size": "large"
+  },
+  {
+  "#text": "",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Encore (Deluxe Explicit Version)",
+  "playcount": 233965,
+  "url": "https://www.last.fm/music/Eminem/Encore+(Deluxe+Explicit+Version)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/ca31a61cefba4d67cd69a860fa1c5717.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/ca31a61cefba4d67cd69a860fa1c5717.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/ca31a61cefba4d67cd69a860fa1c5717.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/ca31a61cefba4d67cd69a860fa1c5717.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Eminem Presents: The Re-Up",
+  "playcount": 318113,
+  "url": "https://www.last.fm/music/Eminem/Eminem+Presents:+The+Re-Up",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/c0d8cdeb81d54d49ba14b7511226452a.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/c0d8cdeb81d54d49ba14b7511226452a.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/c0d8cdeb81d54d49ba14b7511226452a.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/c0d8cdeb81d54d49ba14b7511226452a.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Curtain Call - The Hits",
+  "playcount": 650268,
+  "url": "https://www.last.fm/music/Eminem/Curtain+Call+-+The+Hits",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/dd3e3ea987da48729656dc6e2a23e5d9.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/dd3e3ea987da48729656dc6e2a23e5d9.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/dd3e3ea987da48729656dc6e2a23e5d9.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/dd3e3ea987da48729656dc6e2a23e5d9.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Eminem",
+  "playcount": 312301,
+  "url": "https://www.last.fm/music/Eminem/Eminem",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/9fc263bdf57f485ab2d620030d077366.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/9fc263bdf57f485ab2d620030d077366.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/9fc263bdf57f485ab2d620030d077366.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/9fc263bdf57f485ab2d620030d077366.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "Fucking Crazy",
+  "playcount": 206749,
+  "mbid": "f0de592f-a1eb-4c0d-ac2e-77eaee021b19",
+  "url": "https://www.last.fm/music/Eminem/Fucking+Crazy",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/c99c19d859a748a5b8b365ef111189a7.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/c99c19d859a748a5b8b365ef111189a7.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/c99c19d859a748a5b8b365ef111189a7.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/c99c19d859a748a5b8b365ef111189a7.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "The Slim Shady LP (Explicit)",
+  "playcount": 102883,
+  "url": "https://www.last.fm/music/Eminem/The+Slim+Shady+LP+(Explicit)",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/34s/9d89159669e24f0b90fd7810d26b006e.png",
+  "size": "small"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/64s/9d89159669e24f0b90fd7810d26b006e.png",
+  "size": "medium"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/174s/9d89159669e24f0b90fd7810d26b006e.png",
+  "size": "large"
+  },
+  {
+  "#text": "https://lastfm-img2.akamaized.net/i/u/300x300/9d89159669e24f0b90fd7810d26b006e.png",
+  "size": "extralarge"
+  }
+  ]
+  },
+  {
+  "name": "11.04.05",
+  "playcount": 146433,
+  "url": "https://www.last.fm/music/Eminem/11.04.05",
+  "artist": {
+  "name": "Eminem",
+  "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+  "url": "https://www.last.fm/music/Eminem"
+  },
+  "image": [
+  {
+  "#text": "",
+  "size": "small"
+  },
+  {
+  "#text": "",
+  "size": "medium"
+  },
+  {
+  "#text": "",
+  "size": "large"
+  },
+  {
+  "#text": "",
+  "size": "extralarge"
+  }
+  ]
+  }
+  ],
+  "@attr": {
+  "artist": "Eminem",
+  "page": "1",
+  "perPage": "50",
+  "totalPages": "1849",
+  "total": "92413"
+  }
+  }
+  }
