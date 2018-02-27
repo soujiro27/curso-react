@@ -1,21 +1,29 @@
 
 body{
     background-color:#efefef;
+    font-family: 'Roboto', sans-serif;
 }
 
 .Media-container{
     width: 100%;
-    overflow:visible
+    overflow:visible;
+    display:flex;
+    overflow: hidden;
+    overflow-x: scroll
 }
 
 .Media{
     cursor: pointer;
     width: 260px;
     text-align: center;
-    display: inline-block;
+    padding:1px 6px;
 }
 
 .Media-info img{
-    width: 230px;
-    height: 230px;
+    width: 160px;
+    height: 160px;
+}
+
+.Media-info h3{
+    margin: 2px
 }
